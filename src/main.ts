@@ -1,5 +1,5 @@
 // Voici comment commenter, avec des shashhhhhhhhhhhh
-/// slashhhhh
+/// slashhhh
 
 import { bootstrapApplication } from '@angular/platform-browser';
 import { appConfig } from './app/app.config';
