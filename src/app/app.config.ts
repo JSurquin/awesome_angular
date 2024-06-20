@@ -7,4 +7,4 @@ export const appConfig: ApplicationConfig = {
   providers: [provideRouter(routes)]
 };
 //hellooooooooooooooooooooooooooo
-hi
+Hello tout le monde
