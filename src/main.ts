@@ -1,4 +1,4 @@
-// Voici comment commenter, 
+// Voici comment commenter, avec des shashhhhhhhhhhhh
 /// slashhhhh
 
 import { bootstrapApplication } from '@angular/platform-browser';
